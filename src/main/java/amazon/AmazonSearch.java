@@ -33,6 +33,7 @@ public class AmazonSearch {
         else
             //Assertion is for validations
             Assert.fail("Test Failed");*/
+        System.out.println("Hi");
 
     }
     //Activity set that is executed before main method
